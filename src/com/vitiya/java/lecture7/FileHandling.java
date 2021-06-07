@@ -16,7 +16,5 @@ public class FileHandling {
         FileInputStream writer = new FileInputStream("TextFile.txt");
         System.out.println(writer.read());
         writer.close();
-
-
     }
 }

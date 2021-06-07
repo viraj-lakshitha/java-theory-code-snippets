@@ -11,7 +11,7 @@ package com.vitiya.java.lecture1;
 /**
  * Abstraction ( Example {@link Phone} )
  * - When class without abstract keyword, that class should include all the methods in implemented interface as {@link PhoneWithBasicOperations}
- * - But When the class with abstract keyword, that class should not have to implemente aall the methods, it can be customized as {@link PhoneWithAllOperations}
+ * - But When the class with abstract keyword, that class should not have to implement call methods, it can be customized as {@link PhoneWithAllOperations}
  * */
 
 /**
